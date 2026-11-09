@@ -4,6 +4,7 @@ Android 10+ tool to extract **ExeFS** and **RomFS** from your own XCI / NSP / NC
 with **updates merged on top** (BKTR patching). Material 3, dynamic colour, dark mode.
 No emulation — extraction only.
 
+
 ## Using it
 1. **Setup wizard**: pick `prod.keys` (required; `title.keys` optional), your game folder, and an output folder.
 2. **Library**: games are listed with icon, version and detected update. Updates found in the folder attach automatically;
